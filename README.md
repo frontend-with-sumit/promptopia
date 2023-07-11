@@ -12,7 +12,7 @@ Welcome to Promptopia! Promptopia is a user-friendly platform that allows you to
 Access Promptopia by opening your browser and navigating to .
 
 ## Contributing
-We welcome contributions to make Promptopia even better! If you would like to contribute to this project, please follow these steps:
+Contributions are welcome to make Promptopia even better! If you would like to contribute to this project, please follow these steps:
 
 - Fork the repository on GitHub.
 
@@ -31,7 +31,10 @@ We welcome contributions to make Promptopia even better! If you would like to co
 ## License
 The Promptopia project is licensed under the MIT License.
 
-Contact
-If you have any questions, suggestions, or feedback, please feel free to reach out to us at promptopia@example.com. We would love to hear from you!
+## Acknowledgments
 
-We hope you enjoy using Promptopia and find it a valuable tool for generating meaningful responses with AI. Let your creativity flow and explore the endless possibilities with prompt-based generation. Happy prompting!
+Promptopia was developed as part of the NextJS course provided by JavaScript Mastery on YouTube. I would like to acknowledge and express my gratitude to JavaScript Mastery for their comprehensive and well-structured course material, which served as the foundation for this project. Their course provided valuable insights and guidance on building NextJS applications and was instrumental in the development of Promptopia.
+
+I highly recommend checking out the [NextJS course by JavaScript Mastery](https://www.youtube.com/watch?v=wm5gMKuwSYk)if you are interested in learning more about NextJS and building powerful web applications.
+
+I hope you enjoy using Promptopia and find it a valuable tool for generating meaningful responses with AI. Let your creativity flow and explore the endless possibilities with prompt-based generation. Happy prompting!
